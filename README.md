@@ -1,7 +1,7 @@
 # Pain's Netflix
 
 ### Deployment
-The app with my api keys and database is deployed and can be accessed at [https://eu3xj8y9it.us-east-1.awsapprunner.com/].
+The app with my api keys and database is deployed and can be accessed at [https://pain-s-netflix.onrender.com/].
 
 ### Deployed site.
 ![alt text](image.png)
